@@ -21,6 +21,9 @@ class ExampleInstrumentedTest {
         // nig
         // gers
         // testov Net
+        // testov Net
+
+        //chiken
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.newtest1", appContext.packageName)
     }
