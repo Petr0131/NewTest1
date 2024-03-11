@@ -24,6 +24,7 @@ class ExampleInstrumentedTest {
         // testov Net
 
         //chiken
+        // testov Net
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.newtest1", appContext.packageName)
     }
