@@ -20,7 +20,7 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         // test test test
         // test test test
-        // test test test
+        // testov Net
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.newtest1", appContext.packageName)
     }
