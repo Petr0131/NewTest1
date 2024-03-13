@@ -19,9 +19,7 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
 
-        //legend
-        //legend
-        //legend
+        //kolistro
 
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.newtest1", appContext.packageName)
